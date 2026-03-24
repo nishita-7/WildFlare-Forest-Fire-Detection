@@ -72,5 +72,3 @@ Forest fire image dataset sourced from Kaggle — 760 training images per class,
 Python · TensorFlow · Streamlit · OpenCV · scikit-learn
 
 ---
-
-*Made by Nishita N*
