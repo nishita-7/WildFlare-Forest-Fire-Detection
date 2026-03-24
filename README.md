@@ -1,4 +1,4 @@
-#WildFlare: Forest Fire Detection using CNN 🔥
+## WildFlare: Forest Fire Detection using CNN 🔥
 
 A CNN-based binary image classifier that detects forest fires from images, built from scratch without any transfer learning. Trained on ~1500 images, achieves 96% test accuracy.
 
